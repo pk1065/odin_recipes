@@ -1,4 +1,16 @@
-.title {
-    color: red;
+.title,
+.list-items {
+    font-family: 'Times New Roman', Times, serif;
 }
 
+.title {
+    color: red;
+    font-size: 32px;
+    background-color: black;
+    text-align: center;
+}
+
+.list-items {
+    font-weight: bold;
+    font-style: italic;
+}
